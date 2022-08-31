@@ -17,6 +17,9 @@ Syntax highlighted code block
 - Word of the Day
 - Learning Terminal Commands
 
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 
 
 ```
